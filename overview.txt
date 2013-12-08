@@ -1,0 +1,72 @@
+---- Intro
+
+??? Are there any classically trained Engineeers here ???
+??? What words do you associate with 'engineering' ???
+
+
+
+---- On Metaphor 
+
+# Metaphor is powerful
+
+Metaphor teaches. Metaphor gives us assistance. Metaphor Influences. 
+ * Educate (greenhouse effect), 
+ * Assist (one tech to another, nodes instead of web pages). 
+ * (Less obvious) Influence (prudentail rock in logo)
+
+---- STOLEN ----
+The greatest thing by far is to be a master of metaphor – Aristotle
+
+Aristotle and countless other masterful communicators have harnessed the power of metaphor to effectively persuade and inform. Metaphors allow you to make the complex simple and the controversial palatable. Conversely, metaphors allow you to create extraordinary meaning out of the seemingly mundane.
+
+ Persuassion exmaple: Lee Iacocca: Safety Net (to stop % of Americans falling into economic turmoil, away from blight on taxpayers, to responsible govrn) instead of Bailout.
+
+ Metaphors are so powerful because of one simple fact of human psychology—we react more readily to the emotional than the rational. 
+
+ A metaphor is a figure of speech that uses one thing to mean another and makes a comparison between the two. The key words here are “one thing to mean another.” So, when someone says “He’s become a shell of a man,” we know not to take this literally, even though it’s stated directly as if this person had actually lost his internal substance.
+
+A metaphor carries so much more power than a simile, because it’s direct. Using “like” or “as” to make an open comparison will often diminish the vivid visual you’re trying to paint in the reader’s mind. Likewise, a spot-on metaphor will spark instant understanding for a reader, without the elaboration that an analogy requires.
+---- STOLEN ----
+
+
+# Metaphor constrains.
+- In a domain with a central metaphor in it's name. That can constrain our thinking to thinking we must be like the other forms of it. For examples... engineering....
+
+
+
+
+
+---- The Engineering Metaphor
+
+# Our interpretation of engineering has misled us
+
+1968, two years later Waterfall. Idea of engineers -> plan ->  laborers -> build
+
+??? Has anyone ever worked with an architect (master engineer) who planned out dozens of systems in Visio before the biz problem was understood and evolving ???
+
+Real engineering is more about prototypes and solving problem within contraints. It is actually a good metaphor, but evidence of our behaviour shows we don't think that way.
+
+"The other big issue is conformity. We have built our education systems on the model of fast food. This is something Jamie Oliver talked about the other day. You know there are two models of quality assurance in catering. One is fast food, where everything is standardized. The other are things like Zagat and Michelin restaurants, where everything is not standardized, they're customized to local circumstances. And we have sold ourselves into a fast food model of education, and it's impoverishing our spirit and our energies as much as fast food is depleting our physical bodies."
+
+---- The Cultivation Metaphor
+
+# Why it is more aligned to our industry (ha!).
+
+"So I think we have to change metaphors. We have to go from what is essentially an industrial model of education, a manufacturing model, which is based on linearity and conformity and batching people. We have to move to a model that is based more on principles of agriculture. We have to recognize that human flourishing is not a mechanical process; it's an organic process. And you cannot predict the outcome of human development. All you can do, like a farmer, is create the conditions under which they will begin to flourish."
+
+Agriculture - Still a loaded term. Think primitive. That's why Cultivation
+
+# Programmers are more like gardeners. Managers are more like farmers. (gag: factory farming)
+# Slack Time. field spare, bugs, growing/prune code like gardeners. Growing OO.
+# Project Gardening
+
+
+
+---- Finish
+
+
+I want you to think in cultivation. Cultivate your code, cultivate your product and grow your people.
+
+
+http://www.uxmatters.com/mt/archives/2008/10/the-magic-of-metaphor.php
+http://www.copyblogger.com/become-a-master-of-metaphor-and-multiply-your-blogging-effectiveness/

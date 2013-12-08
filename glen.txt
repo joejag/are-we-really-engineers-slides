@@ -1,0 +1,67 @@
+http://www.confreaks.com/videos/282-lsrc2010-real-software-engineering
+
+software engineering doesn't work as it;s taught. At unis, companies (if they care). Techniques we are taught at uni don't: reliably control costs, or create working software at all. We shouldn't be surprised, it's common knowledge across our industry to know this. Not surprising, but odd. Every other field that uses 'engineering' is reserved  for processes that work. About a good a definition as any. A set of practices and techniques that have been proved to work, we do the oppoisite!
+
+A lot of discussion, about whether software is really engineering at all. Is is a craft, art, gardening, movie making or something else. Maybe it's an inappropriate metaphor for building sofeware (he disagrees). He thinks it's art, craft and somewhat science.
+
+The problem is the people that have defined the set of disciplines we ccall engineering have forgotten two important things. Software and engineering. This has resulted in se being a chariacture of an engenieering discpline.
+
+First I explain that. How many people are classical engineers?
+
+1968: Garmish Germany NATO conference started term SE. At this time we had the "software crisis". Software was cost overrun, pricey, buggy. They decided to grow up as a discipline. This was by software devs and a few acedemics. All very reasonable. They were willing to admit they didn't know anything. It's a different field, whole bunch of stuff we don't know.
+
+Alan Purliss summed up agreements:
+1. Software system can best be designed if the testing is interlaced with the designing instead of being used after the design.
+(fairly resaonable by our standards)
+2. A simulation which matches the requirements contains the control which organizes the design of the system.
+3. Through successive of this process of interlaced testing and design the model ultimately becomes the software system itself. In effect the testing the replacement of simulations with modules that are deeper and more detailed goes on with the sumulation model controlling, as it were, the place and order in which these things are done.
+
+Boehm cost curve from SE Econmics 1981. On Waterfall, actually feedback from detection to fix.
+
+Defined process model (scrum, David Purless in rational model).
+
+Arthur Wellington (bridge builder 19th century): "Engineering is not the art of constructing. It is rather the art of not constructing. Or it is the art of doing with one dollar what any bundler can do with two"
+
+In real engineering: Advances come from practictioners, not academia. Switz dude (Myheart) used reinforced concrete differently than the stone it replaced. He was ostracized as he didn't have a mathematical model to backup his designs. He was a thief! Endagering lives, taking money from customers. All his bridges bar one are still standing. 
+
+He slept at night as he tested, prototyped and modelled his bridges first. He rolled concrete across them, jumped up and down. Did everything he could in his shed. Later other engineers created the math to model these bridges.
+
+Another dude figured out suspension bridges, but it fell down. Models are not reality, then are an approximation of reality. He discoved his bridge was an airfoil with upward force
+
+Software Engineering isn't the only one that forgets what engineering is all about. Mathematical models were introduced as a cost saving tool. It's easy ti think that this is the only way to do things right and robustly. And you don't know it really works unless you have math to prove it.
+
+Calvin Hobbes on bridge building. So do engineers never been prototypes and test them? OF course they do. Gaudi. Boeign 777 wings to breaking point video.
+
+Structural Engineers Association defintion: science & art with economy and elegance structures that can resist the forces to which may be subjected.
+
+SE is different, as we can expect, as other types of engineering are different from each other.
+
+1992 Reeves: Analogy in C++: In Engineering you have engineers -> create documents (UML) -> Labourers -> Finished product.
+Change to: Developers -> Code (which is the model & document, in a language which is mathematically defined) -> Compiler -> running code.
+
+SE is based on a bunch of assumptions that are no longer true:
+
+* Code is hard to read (used to be)
+* Code is hard to change (used to be)
+* Testing is expensive (used to be)
+* All engineerings is like structural engineering (never true)
+* Programming is like building
+* Modelling & analysis is about correctness, rather than controlling costs
+
+Reality is...
+
+* Very unlike building bridges and buildings
+* Additional complexity hinders requirements, design & approval
+* Source code is a model
+* Building and testing our interim designs is essentially free in comparison to other engineerings
+* Empirical proceeses and rational for software
+
+Growing up
+
+* Not math, models, documents, copying other disciplines
+* We should, learn from practioners, bias towards empirical processes, encourage continued innovations
+
+The processes that work will be called "engineering", today software engineering is called "agile"
+
+
+Defined process vs Empirical Process. Engineering hints at defined.

@@ -1,0 +1,12 @@
+Engineering: Closed system. Laws. Rigor. scientific method
+
+Badness: Waterfall, Metrics, Estimates, Architecture. Designing everything in a diagram, rather than evolving based off needs.
+
+Farming: We are open systems, we are changed by the enviornemt. We can't use a scientific method, it's not a science. Create an environment to prosper.
+
+Metaphor goodness: Slack time (field spare, bugs, growing/prune code like gardeners). Managers are more farmers.
+
+How many farmers need managers? What about engineers?
+
+Factory farming vs Cubicles
+
