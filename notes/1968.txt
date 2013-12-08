@@ -1,0 +1,53 @@
+http://homepages.cs.ncl.ac.uk/brian.randell/NATO/nato1968.PDF
+http://www.cs.umd.edu/class/spring2003/cmsc838p/Process/waterfall.pdf
+
+1968, Garnish Germany.
+
+Conference on Software Engineering organised by the NATO Science Committee
+
+"The phrase ‘software engineering’ was deliberately chosen as being provocative, in implying the need for software manufacture to be based on the types of 
+theoretical foundations and practical disciplines, that are traditional in the established branches of engineering"
+
+Alarmed at the amount of programmers needed comapred to hardware engineers, not pride.
+
+"In the cold light of day, we know that a step-by-step approach separating research and development from production is less risky and more likely to be successful"
+
+"Experience indeed indicates that for software tasks similar to previous ones, estimates are accurate to within 10–30 percent in many cases. This situation is familiar in all fields lacking a firm theoretical base."
+
+Dijkstra: The dissemination of knowledge is of obvious value — the massive dissemination of error-loaded software is frightening.
+
+We undoubtedly produce software by backward techniques. We undoubtedly get the short end of the stick in confrontations with hardware people because they are the industrialists and we are the crofters. Software production today appears in the scale of industrialization somewhere below the more backward construction industrieso
+
+
+Kolence: Programming management will continue to deserve its current poor reputation for cost and schedule effectiveness until such a time as a more complete understanding of the program design process is achieved.
+
+We build systems like the Wright brothers built airplanes — build the whole thing, push it off the cliff, let it crash, and start over again.
+
+The distinction between design and production is essentially a practical one, imposed by the need for a division of the labor. For the distinction to be useful, the design work is charged with the specific responsibility that it is pursued to a level of detail where the decisions remaining to be made during production are known to be insignificant to the performance of the system.
+
+But those specifications were based upon the designers’ ignorance before they started the job
+
+Kinslow: The design process is an iterative one. I will tell you one thing which can go wrong with it if you are not in 
+the laboratory. In my terms design consists of:
+1. Flowchart until you think you understand the problem.
+2. Write code until you realize that you don’t.
+3. Go back and re-do the flowchart.
+4, Write some more code and iterate to what you feel is the correct solution
+
+Sofware Crisis 
+
+"the difficulties of meeting schedules and specifications on large software projects"
+"the education of software (or data systems) engineers"
+"the highly controversial question of whether software should be priced separately from hardware"
+
+
+Thoughts at the time:
+
+"Large systems must evolve, and cannot be produced all at one time. You must have an initial small core system that works really well."
+"All users elected to receive monthly system updates. Our field analysts explained that they could cope more easily with small incremental changes"
+
+
+The problem of the proper order in which to do things during design is currently a subject for research in software engineering. 
+Cars, wheels separate. Towns, like a tree.
+
+Really intersted in Simulation before hand. Royce was very interested in heavy documentation.
