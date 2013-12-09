@@ -12,28 +12,30 @@ On Metaphor
  * harness the power of metaphors to persuade and inform
  * They make the complex simple and the controversial palatable.
 
-## Metaphor teaches. Metaphor gives us assistance. Metaphor Influences. 
- * Educate (greenhouse effect), 
- * Assist (one tech to another, nodes instead of web pages). 
- * (Less obvious) Influence (prudentail rock in logo)
+## Metaphor educates. Metaphor Influences. 
+ * Teach (greenhouse effect) any product/service can draw upon metaphor, 
+ * Assist (transition from one tech to another, web pages from print media, files & folders). 
+ * (Less obvious) Influence .If your product is unlike other, perhaps abstract, then make it tangible. (prudentail rock in logo shows security 'let us be yur rock'). 
 
 ## Metaphor constrains.
- * In a domain with a central metaphor in it's name. That can constrain our thinking to thinking we must be like the other forms of it. For examples... engineering....
- * But how did we ever get to applying the engineering metaphor
+ * While it helps educate and understand, it also prompts us for points to think for analogies.
+ * With a central metaphor added to a discpline like 'engineering' we search first and contrain ourselves to searching for explations and inspiriation from the metaphor of that domain. 
+ * That got me thinking. Hod did we even get around to applying the engineering metaphor?
 
 Engineering History
 ===================
 
 ## Cast your mind back to 1968
- * British Prime Minister Harold Wilson endorses the 'I'm Backing Britain' campaign for working an additional half hour each day without pay
- * Apple records is founded by The Beatles
  * Apollo 8 sees the far side of the moon.
- * MLK is shot dead (master of metaphor)
+ * When you said 'Apple' people thought of Apple records 
+ * C hasn't been invented. ALGOL and COBOL are the dominant languages with mathmaticians doing the bulk of the programming work.
+ * Operating Systems were written in machine language. It was 4 years before Unix was written in C.
+ * We are in the Software crisis (over budget, time, inefficient, low quality, did not meet requirements, difficult to maintain, never delivered)
 
-## 1968, Garmisch, practitioners, acadademics (very reasonable) gather for the first conference on "Software Engineering", an offshoot from the NATO Computer Science group.
- * Software crisis (over budget, time, inefficient, low quality, did not meet requirements, difficult to maintain, never delivered)
- * Widespread concern at the growing number of software types to hardware types. Lack of pride.
- * Their estimates were sometimes over 30% out. Pointed as a lack of a theoretical basis.
+## 1968, Garmisch, NATO
+ * practitioners, acadademics (very reasonable) gather for the first conference on "Software Engineering", an offshoot from the NATO Computer Science group.
+ * Disaapointment at the growing ranks of software devs in comparison with hardware.
+ * Their estimates were poor. Pointed as a lack of a theoretical basis.
 
 ## Wright Brothers quote
 "We build systems like the Wright brothers built airplanes — build the whole thing, push it off the cliff, let it crash, and start over again."
@@ -45,27 +47,31 @@ The Engineering Metaphor
 ========================
 
 ## This is why we are called engineers, and we construct software
- * Two years after the 1968, the Waterfall paper was published, setting our industry on its new path. Heavily influenced from the desire to have a defined process model rather than an emperical one.
+ * Two years after the 1968 conf, the Waterfall paper was published, setting our industry on its new path. 
+ * Heavily influenced from the desire to have a defined process model rather than an emperical one. Seen as more like engineering.
 
 ## Like engineering
- * Like Engineering, they wanted a division of labour
- * Designed processes based off engineering. Expensive people mitigate all the decisions, labourers do the small bits.
- * In a lot of place we still work this way, offshoring from a functional spec. Artitects doing huge Visio designs that represent nothing like the reality the biz needs
- * We now know taking inspiration from this metaphor was wrong. Programmers are the engineers, compilers are the labourers. 
+ * Like Engineering, they wanted a division of labour. Analysts, Designers and Programmres.
+ * Expensive people mitigate all the decisions, labourers do the small bits.
+ * This idea is pervasive. In a lot of place we still work this way, offshoring from a functional spec to devs on mars. Artitects doing huge Visio designs that represent nothing like the reality the biz needs
+ * Other ideas that came out of this was heavy documentation for handoffs. Royce says in his paper that he would fire any PMs without heavily documented processes and systems.
+ * We now know taking inspiration from this metaphor was wrong. Programmers are the engineers (they design, plan, react in code (the high level doc)), compilers & VMs are the labourers (constructing the software).
 
 ## It's our misconception
- * A large part of this is our general misconceptions around engineering. For example mathematical models are used to reduce costs, not for proving correctness. There are many more models of engineering that strucural.
+ * A large part of this is our general misconceptions around engineering. 
+ * Another thing they wanted in 1968 was mathematical models to prove software is correct. That's not their intention, they are used to reduce costs, not for proving correctness. 
+ * There are many more models of engineering than strucural, where we focused. Chemical, Civil, Electrical, where they use more empirical methods.
 
 ## Other effects
- * Other ideas that came out of this was heavy documentation for handoffs, UML, attempts to mathematically define requirements. Over indulgence in design patterns. Certification.
- * Engineering was a great metaphor for the way Waterfall worked, but now we need to revisit the assumptions that it was based off, just like we stopped using Waterfall.
+ * UML, attempts to mathematically define requirements. Over indulgence in design patterns. Desire to be Certified by a standards body. SEMAT still chasing this goal.
+ * Engineering was a great metaphor for the way Waterfall worked, but now we need to revisit the assumptions that it was based off, just like we largely stopped using Waterfall.
 
 ## Primary Reason: The assumptions that we are are engineering practice were wrong
- * The problem is the assumptions from 1968 are no longer valid (code hard to read, change, testing is expensive, deployment meanst installation at the customer site)
- * Some were never valid (all engineering is like structural engin, programming is like building, analysis is about correctness, rahter than controlling costs)
+ * The problem is the assumptions from 1968 are no longer valid (we don't use machine code per machine. code hard to read, change, testing is expensive, deployment meanst installation at the customer site)
+ * Some assumpions were never valid (all engineering is like structural engin, programming is like building, mathematical analysis is about correctness, rather than controlling costs, A silver bullet)
 
 The Cultivation Metaphor
-=======================
+========================
 
 ## Cultivation
  * A few other metaphors have been suggested: art, music, craft, pottery. I suggest an agricultural one...
@@ -88,7 +94,7 @@ The Cultivation Metaphor
 Finish
 ======
 
-Metaphor Educates, Assists, Influences, Constrains
+Metaphor Educates, Influences, Constrains
 
 Engineering might of been a useful metaphor at one point, but it isn't today. I want you to think in cultivation. Cultivate your code, cultivate your product and grow your people.
 
