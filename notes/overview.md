@@ -35,24 +35,24 @@ Engineering History
 ## 1968, Garmisch, NATO
  * practitioners, acadademics (very reasonable) gather for the first conference on "Software Engineering", an offshoot from the NATO Computer Science group.
  * Disaapointment at the growing ranks of software devs in comparison with hardware.
- * Their estimates were poor. Pointed as a lack of a theoretical basis.
+ * Their estimates were poor. Pointed as a lack of a theoretical basis. Even worse, the programmers were making decisions!
 
 ## Wright Brothers quote
 "We build systems like the Wright brothers built airplanes — build the whole thing, push it off the cliff, let it crash, and start over again."
 
 ## signoff
  * "The phrase ‘software engineering’ was deliberately chosen as being provocative. Time to grow up and become engineers instead of crofters and aspire to be industrialists.
+ * There were no formal methods. So they copied from hardware, where it is prohibitivly expensive to change late.
 
 The Engineering Metaphor
 ========================
 
 ## This is why we are called engineers, and we construct software
- * Two years after the 1968 conf, the Waterfall paper was published, setting our industry on its new path. 
- * Copied from harware. Prohibitive to cost late.
+ * Two years after the 1968 conf, a man who worked at NASA published a paper called "Manging the dev of large software systems" the Waterfall paper was published, setting our industry on its new path
  * Heavily influenced from the desire to have a defined process model rather than an emperical one. Seen as more like engineering.
 
 ## Like engineering
- * Like Engineering, they wanted a division of labour. Analysts, Designers and Construction.
+ * Like Engineering, they wanted a division of labour. Analysts, Designers and Programmers.
  * Expensive people mitigate all the decisions, labourers do the small bits.
  * This idea is pervasive. In a lot of place we still work this way, offshoring from a functional spec to devs on mars. Artitects doing huge Visio designs that represent nothing like the reality the biz needs
  * Other ideas that came out of this was heavy documentation for handoffs. Royce says in his paper that he would fire any PMs without heavily documented processes and systems.
