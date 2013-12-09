@@ -75,9 +75,10 @@ The Cultivation Metaphor
 ========================
 
 ## Cultivation
- * A few other metaphors have been suggested: art, music, craft, pottery, Grace Hopper said it's like planning dinner.. I suggest an agricultural one...
- * Developers are more like gardeners as suggested in the Pragmatic Programmer (growing OO systems, prune undesirable wayward bits, sometimes removing a big bit the architect put in)
- * Managers are more like farmers. (they cannot perfectly predict, just create the conditions that things will flourish). (gag: factory farming)
+ * A few other metaphors have been suggested: art, music, craft, pottery, Grace Hopper said it's like planning dinner.. I suggest something a little more down to earth.
+ * Software development isn't a mechanical beast, it's organic in it's nature.
+ * Developers are more like gardeners (growing OO systems, prune undesirable wayward bits, sometimes removing a big bit the architect put in)
+ * Managers are more like farmers. (they shoudn't try to perfectly predict the future, just create the conditions that things will flourish). (gag: factory farming)
 
 ## A Richer ground for metaphors
  * Refactoring is like pruning

@@ -119,7 +119,6 @@ BODY {
 	.slide ul > li:before {
 		content:'\2022'; /* bull */
 		line-height:1.1;
-		font-size:40px;
 		}
 	.slide ol > li:before {
 		counter-increment:list;
