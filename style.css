@@ -15,8 +15,6 @@ BODY {
 /* Slide
 ---------------------------------------- */
 .slide:after {
-	counter-increment:paging;
-	content:counter(paging, decimal-leading-zero);
 	}
 .slide section {
 	padding:80px 120px 0;
