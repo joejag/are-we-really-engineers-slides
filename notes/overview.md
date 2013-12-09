@@ -56,20 +56,20 @@ The Engineering Metaphor
  * Expensive people mitigate all the decisions, labourers do the small bits.
  * This idea is pervasive. In a lot of place we still work this way, offshoring from a functional spec to devs on mars. Artitects doing huge Visio designs that represent nothing like the reality the biz needs
  * Other ideas that came out of this was heavy documentation for handoffs. Royce says in his paper that he would fire any PMs without heavily documented processes and systems.
- * We now know taking inspiration from this metaphor was wrong. Programmers are the engineers (they design, plan, react in code (the high level doc)), compilers & VMs are the labourers (constructing the software).
 
 ## It's our misconception
- * A large part of this is our general misconceptions around engineering. 
- * Another thing they wanted in 1968 was mathematical models to prove software is correct. That's not their intention, they are used to reduce costs, not for proving correctness. 
+ * You may be detecting a general theme of misunderstanding engineering. 
  * There are many more models of engineering than strucural, where we focused. Chemical, Civil, Electrical, where they use more empirical methods.
+ * Another thing they wanted in 1968 was mathematical models to prove software is correct. That's not their intention, they are used to reduce costs by not having to build a prototype, not for proving correctness. 
 
 ## Other effects
- * UML, attempts to mathematically define requirements. Over indulgence in design patterns. Desire to be Certified by a standards body. SEMAT still chasing this goal.
- * Engineering was a great metaphor for the way Waterfall worked, but now we need to revisit the assumptions that it was based off, just like we largely stopped using Waterfall.
+ * UML, attempts to mathematically define requirements. Over indulgence in design patterns. Desire to be Certified by a standards body. Academics are still chasing this theory goal with SEMAT.
+ * Engineering was the first established metaphor for the way to build sofware in machine code, but now we need to revisit the assumptions that it was based off
 
 ## Primary Reason: The assumptions that we are are engineering practice were wrong
- * The problem is the assumptions from 1968 are no longer valid (we don't use machine code per machine. code hard to read, change, testing is expensive, deployment meanst installation at the customer site)
  * Some assumpions were never valid (all engineering is like structural engin, programming is like building, mathematical analysis is about correctness, rather than controlling costs, A silver bullet)
+ * The problem is the assumptions from 1968 are no longer valid (we don't use machine code per machine. code hard to read, change, testing is expensive, deployment meanst installation at the customer site)
+ * The parts of software that now cost are no longer the same as engineering, we have different problems, and require a different metaphor
 
 The Cultivation Metaphor
 ========================
