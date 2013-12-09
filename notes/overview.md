@@ -48,10 +48,11 @@ The Engineering Metaphor
 
 ## This is why we are called engineers, and we construct software
  * Two years after the 1968 conf, the Waterfall paper was published, setting our industry on its new path. 
+ * Copied from harware. Prohibitive to cost late.
  * Heavily influenced from the desire to have a defined process model rather than an emperical one. Seen as more like engineering.
 
 ## Like engineering
- * Like Engineering, they wanted a division of labour. Analysts, Designers and Programmres.
+ * Like Engineering, they wanted a division of labour. Analysts, Designers and Construction.
  * Expensive people mitigate all the decisions, labourers do the small bits.
  * This idea is pervasive. In a lot of place we still work this way, offshoring from a functional spec to devs on mars. Artitects doing huge Visio designs that represent nothing like the reality the biz needs
  * Other ideas that came out of this was heavy documentation for handoffs. Royce says in his paper that he would fire any PMs without heavily documented processes and systems.
@@ -74,7 +75,7 @@ The Cultivation Metaphor
 ========================
 
 ## Cultivation
- * A few other metaphors have been suggested: art, music, craft, pottery. I suggest an agricultural one...
+ * A few other metaphors have been suggested: art, music, craft, pottery, Grace Hopper said it's like planning dinner.. I suggest an agricultural one...
  * Developers are more like gardeners as suggested in the Pragmatic Programmer (growing OO systems, prune undesirable wayward bits, sometimes removing a big bit the architect put in)
  * Managers are more like farmers. (they cannot perfectly predict, just create the conditions that things will flourish). (gag: factory farming)
 
