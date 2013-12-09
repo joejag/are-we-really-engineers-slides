@@ -1,3 +1,5 @@
+Hi, I'm Joe. I'm a rightshifter and I currently work for the NHS within mental health.
+
 ---- On Metaphor 
 
 # Last year reference
@@ -16,51 +18,75 @@
 
 # Metaphor constrains.
 - In a domain with a central metaphor in it's name. That can constrain our thinking to thinking we must be like the other forms of it. For examples... engineering....
-
+ * But how did we ever get to applying the engineering metaphor
 
 -=-- Engineering History ----
 
-1968, Garmisch, software crisis (over budget, time, inefficient, low quality, did not meet requirements, difficult to maintain, never delivered)
+# Cast your mind back to 1968
+* British Prime Minister Harold Wilson endorses the 'I'm Backing Britain' campaign for working an additional half hour each day without pay
+* Apple records is founded by The Beatles
+* Apollo 8 sees the far side of the moon.
+* MLK is shot dead (master of metaphor)
 
-Widespread concern at the growing number of software types to hardware types. Lack of pride.
-Their estimates were sometimes over 30% out.
+# 1968, Garmisch, practitioners, acadademics (very reasonable) gather for the first conference on "Software Engineering", an offshoot from the NATO Computer Science group.
+ * Software crisis (over budget, time, inefficient, low quality, did not meet requirements, difficult to maintain, never delivered)
+ * Widespread concern at the growing number of software types to hardware types. Lack of pride.
+Their estimates were sometimes over 30% out. Pointed as a lack of a theoretical basis.
 
-"The phrase ‘software engineering’ was deliberately chosen as being provocative
+# Wright Brothers quote
+"We build systems like the Wright brothers built airplanes — build the whole thing, push it off the cliff, let it crash, and start over again."
 
-Software guys called themselves 'crofters' to the 'industrialists'.
-
-We build systems like the Wright brothers built airplanes — build the whole thing, push it off the cliff, let it crash, and start over again.
+ * "The phrase ‘software engineering’ was deliberately chosen as being provocative. Time to grow up and become engineers instead of crofters and aspire to be industrialists.
 
 ---- The Engineering Metaphor
 
-# Our interpretation of engineering has misled us
+# This is why we are called engineers, and we construct software
+ * Two years after the 1968, the Waterfall paper was published, setting our industry on its new path. Heavily influenced from the desire to have a defined process model rather than an emperical one.
 
+# Like engineering
+ * Like Engineering, they wanted a division of labour
+ * Designed processes based off engineering. Expensive people mitigate all the decisions, labourers do the small bits.
+ * In a lot of place we still work this way, offshoring from a functional spec. Artitects doing huge Visio designs that represent nothing like the reality the biz needs
+ * The metaphor is wrong. Programmers are the engineers, compilers are the labourers. And the customer may know they want a building with 60 floors.
 
-Certification. Engineers have a standard, with insurance, who you can sue if you project goes wrong.
+# Other effects
+ * A large part of this is our general misconceptions around engineering. For example mathematical models are used to reduce costs, not for proving correctness. There are many more models of engineering that strucural.
+ * Other ideas that came out of this was heavy documentation for handoffs, UML, attempts to mathematically define requirements. Over indulgence in design patterns. Certification.
+ * Engineering was a great metaphor for the way Waterfall worked, but now we need to revisit the assumptions that it was based off, just like we stopped using Waterfall.
 
-??? Has anyone ever worked with an architect (master engineer) who planned out dozens of systems in Visio before the biz problem was understood and evolving ???
-
-Real engineering is more about prototypes and solving problem within contraints. It is actually a good metaphor, but evidence of our behaviour shows we don't think that way.
-
-"The other big issue is conformity. We have built our education systems on the model of fast food. This is something Jamie Oliver talked about the other day. You know there are two models of quality assurance in catering. One is fast food, where everything is standardized. The other are things like Zagat and Michelin restaurants, where everything is not standardized, they're customized to local circumstances. And we have sold ourselves into a fast food model of education, and it's impoverishing our spirit and our energies as much as fast food is depleting our physical bodies."
+# Primary Reason: The assumptions that we are are engineering practice were wrong
+ * The problem is the assumptions are no longer valid (code hard to read, change, testing is expensive, deployment means installation)
+ * Some were never valid(all engineering is like structural engin, programming is like building, analysis is about correctness, rahter than controlling costs)
+ * The primary reason math models exist is to control costs, not to prove it works.
 
 ---- The Cultivation Metaphor
 
-# Why it is more aligned to our industry (ha!).
+# Cultivation
+ * A few other metaphors have been suggested: art, craft, pottery. I suggest an agricultural one...
+ * Programmers are more like gardeners (prune, plan small, growing OO)
+ * Managers are more like farmers. (they cannot perfectly predict, just create the conditions that things will flourish). (gag: factory farming)
 
-"So I think we have to change metaphors. We have to go from what is essentially an industrial model of education, a manufacturing model, which is based on linearity and conformity and batching people. We have to move to a model that is based more on principles of agriculture. We have to recognize that human flourishing is not a mechanical process; it's an organic process. And you cannot predict the outcome of human development. All you can do, like a farmer, is create the conditions under which they will begin to flourish."
+# A Richer ground for metaphors
+ * Refactoring is like pruning
+ * Bugs
+ * Slack time, leaving a field farrow (where is engineering, 100% resource utilization, fractions of a person)
+ * Sustainable gardening (design, construction, and maintenance practices that meet the needs of the present without compromising the ability of future generations to meet their own needs)
 
-Agriculture - Still a loaded term. Think primitive. That's why Cultivation
-
-# Programmers are more like gardeners. Managers are more like farmers. (gag: factory farming)
-# Slack Time. field spare, bugs, growing/prune code like gardeners. Growing OO.
 # Project Gardening
-
-
+ * Thought assembly line, very linear and batch like assembly.
+ * Adrian mentioned Single Piece Flow, which I combined with Impact Mapping to create a Project Garden
+ * Simply a goal in the middle, which expands and contracts
+ * Freedom from what is a story, task. Shows you the risks to be mitigated (rather than in a risk log)
+ * A lot of agile is just mini-waterfall, this non-linear approach provides an escape from that thinking.
 
 ---- Finish
 
+Metaphor Educates, Assists, Influences, Constrains
 
-I want you to think in cultivation. Cultivate your code, cultivate your product and grow your people.
+Engineering might of been a useful metaphor at one point, but it isn't today. I want you to think in cultivation. Cultivate your code, cultivate your product and grow your people.
 
+So I think we have to change metaphors. We have to go from what is essentially an industrial model of sofware, a manufacturing model, which is based on linearity and conformity and batching. We have to move to a model that is based more on principles of agriculture. We have to recognize that software development is not a mechanical process; it's an organic process. And you cannot predict the outcome of it. All you can do, like a farmer, is create the conditions under which they will begin to flourish.
 
+We can't as Artistole suggests, all be masters of metaphor, but we can change the metaphor which rules our working lives.
+
+Thank you.

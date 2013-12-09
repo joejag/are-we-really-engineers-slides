@@ -5,8 +5,7 @@ http://www.cs.umd.edu/class/spring2003/cmsc838p/Process/waterfall.pdf
 
 Conference on Software Engineering organised by the NATO Science Committee
 
-"The phrase ‘software engineering’ was deliberately chosen as being provocative, in implying the need for software manufacture to be based on the types of 
-theoretical foundations and practical disciplines, that are traditional in the established branches of engineering"
+"The phrase ‘software engineering’ was deliberately chosen as being provocative, in implying the need for software manufacture to be based on the types of theoretical foundations and practical disciplines, that are traditional in the established branches of engineering"
 
 Alarmed at the amount of programmers needed comapred to hardware engineers, not pride.
 
