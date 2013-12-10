@@ -100,8 +100,8 @@ Metaphor Educates, Influences, Constrains
 
 Engineering might of been a useful metaphor at one point, but it isn't today. I want you to think in cultivation. Cultivate your code, cultivate your product and grow your people.
 
-So I think we have to change metaphors. We have to go from what is essentially an industrial model of sofware, a manufacturing model, which is based on linearity and conformity and batching. We have to move to a model that is based more on principles of agriculture. We have to recognize that software development is not a mechanical process; it's an organic process. And you cannot predict the outcome of it. All you can do, like a farmer, is create the conditions under which they will begin to flourish.
-
 We can't as Artistole suggests, all be masters of metaphor, but we can change the metaphor which rules our working lives.
+
+We have to go from what is essentially an industrial model of sofware, a manufacturing model, which is based on linearity and conformity and batching. We have to move to a model that is based more on principles of cultivation. We have to recognize that software development is not a mechanical process; it's an organic process. And you cannot predict the outcome of it. All you can do, like a farmer, is create the conditions under which they will begin to flourish.
 
 Thank you.
