@@ -3,23 +3,21 @@ Hi, I'm Joe. I'm a rightshifter and I currently work for the NHS within mental h
 On Metaphor 
 ===========
 
-## Last year reference
-* Last year I left with an Aristole quote on Systems Thinking.
-* So as I way saying.
-* The greatest thing by far is to be a master of metaphor – Aristotle
+## Intro
+* The term software engineering is 45 years old. This metaphor has had a huge influence on our industry. It continues to define us even today.
+* As a reminder for those not paying attention in English class. A metaphor is a figure of speech containing an implied comparison, in which a word ordinarily used of one thing is applied to another
+* That's what the 'engineering' part tacked onto the end of software is. It's a metaphor for how we do things.
+* Metaphors are a powerful device that at best will spark instant understanding without the elaboration that an anology requires.
+* We speak metaphorically everyday, and there's a number of great reasons for this.
 
-## Metaphor is powerful
- * harness the power of metaphors to persuade and inform
- * They make the complex simple and the controversial palatable.
-
-## Metaphor educates. Metaphor Influences. 
- * Teach (greenhouse effect) any product/service can draw upon metaphor, 
- * Assist (transition from one tech to another, web pages from print media, files & folders). 
- * (Less obvious) Influence .If your product is unlike other, perhaps abstract, then make it tangible. (prudentail rock in logo shows security 'let us be yur rock'). 
+## Metaphor educates. Metaphor persuades
+ * Teach (greenhouse effect). Metaphor helps us explain something new and unfamiliar in terms of the familiar
+ * Assist (web pages from print media, files & folders). 
+ * (Less obvious) Influence. Rock logo. It guides our thinking, helps us think of ways to explain and sovle problems
 
 ## Metaphor constrains.
  * While it helps educate and understand, it also prompts us for points to think for analogies.
- * With a central metaphor added to a discpline like 'engineering' we search first and contrain ourselves to searching for explations and inspiriation from the metaphor of that domain. 
+ * With a central metaphor added to a discpline like 'engineering' we search first and constrain ourselves to searching for explations and inspiriation from the metaphor of that domain. 
  * That got me thinking. Hod did we even get around to applying the engineering metaphor?
 
 Engineering History
@@ -28,9 +26,9 @@ Engineering History
 ## Cast your mind back to 1968
  * Apollo 8 sees the far side of the moon.
  * When you said 'Apple' people thought of Apple records 
- * C hasn't been invented. ALGOL and COBOL are the dominant languages with mathmaticians doing the bulk of the programming work.
- * Operating Systems were written in machine language. It was 4 years before Unix was written in C.
- * We are in the Software crisis (over budget, time, inefficient, low quality, did not meet requirements, difficult to maintain, never delivered)
+ * C hasn't been invented, the bulk of code was still machine code. but ALGOL and COBOL are the dominant languages with mathmaticians doing the bulk of the programming work.
+ * Most importantly We are in the Software crisis (over budget, time, inefficient, low quality, did not meet requirements, difficult to maintain, never delivered)
+ * Step in NATO
 
 ## 1968, Garmisch, NATO
  * practitioners, acadademics (very reasonable) gather for the first conference on "Software Engineering", an offshoot from the NATO Computer Science group.
@@ -41,7 +39,9 @@ Engineering History
 "We build systems like the Wright brothers built airplanes — build the whole thing, push it off the cliff, let it crash, and start over again."
 
 ## signoff
- * "The phrase ‘software engineering’ was deliberately chosen as being provocative. Time to grow up and become engineers instead of crofters and aspire to be industrialists.
+ * To solve this crashing and burning problem they deliberatly came up with what they described as a 'provcative' metaphor for describing software development.
+ * Software Enigineering
+ * Time to grow up and become real engineers. One of the participants said he felt like a crofters aspiring to be an industrialists.
  * There were no formal methods. So they copied from hardware, where it is prohibitivly expensive to change late.
 
 The Engineering Metaphor
