@@ -1,18 +1,18 @@
-Hi, I'm Joe. I'm a rightshifter and I currently work for the NHS within mental health.
+Hi, I'm Joe. I'm a rightshifter and I work for ThoughtWorks in Scotland.
 
 On Metaphor 
 ===========
 
 ## Intro
 * The term software engineering is 45 years old. This metaphor has had a huge influence on our industry. It continues to define us even today.
-* As a reminder for those not paying attention in English class. A metaphor is a figure of speech containing an implied comparison, in which a word ordinarily used of one thing is applied to another
+* A metaphor is a figure of speech containing an implied comparison, in which a word ordinarily used of one thing is applied to another
 * That's what the 'engineering' part tacked onto the end of software is. It's a metaphor for how we do things.
 * Metaphors are a powerful device that at best will spark instant understanding without the elaboration that an anology requires.
 * We speak metaphorically everyday, and there's a number of great reasons for this.
 
 ## Metaphor educates. Metaphor persuades
  * Teach (greenhouse effect). Metaphor helps us explain something new and unfamiliar in terms of the familiar
- * Assist (web pages from print media, files & folders). 
+ * Assist (files & folders rather than byte arrays and lookup tables). 
  * (Less obvious) Influence. Rock logo. It guides our thinking, helps us think of ways to explain and sovle problems
 
 ## Metaphor constrains.
@@ -26,7 +26,7 @@ Engineering History
 ## Cast your mind back to 1968
  * Apollo 8 sees the far side of the moon.
  * When you said 'Apple' people thought of Apple records 
- * C hasn't been invented, the bulk of code was still machine code. but ALGOL and COBOL are the dominant languages with mathmaticians doing the bulk of the programming work.
+ * C hasn't been invented, the bulk of code was still machine code. ALGOL and COBOL are the dominant languages with mathmaticians doing the bulk of the programming work.
  * Most importantly We are in the Software crisis (over budget, time, inefficient, low quality, did not meet requirements, difficult to maintain, never delivered)
  * Step in NATO
 
